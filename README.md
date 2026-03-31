@@ -1,12 +1,7 @@
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I%27m+Narendra+Choudhary;Welcome+to+my+GitHub+Profile&font=Fira%20Code&center=true&width=600&height=50&color=#ebfff8&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I%27m+Narendra+Choudhary;Welcome+to+my+GitHub+Profile&font=Fira%20Code&center=true&width=600&height=50&color=BABABA&duration=3000&pause=1000">
 </p>
-
----
-
-<h1 align="center">Hi 👋, I'm Narendra Choudhary</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Python Developer</h3>
 
 ---
 
