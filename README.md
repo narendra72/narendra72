@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Narendra</h1>
+<h3 align="center">Aspiring AI/ML Engineer 🤖</h3>
 
-<!--
-**narendra72/narendra72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 BTech CSE (AI) Student at SKIT Jaipur  
+- 💻 Interested in Machine Learning, Data Science & AI  
+- 🌱 Currently learning: Deep Learning & Projects  
+- 🎯 Goal: Crack top tech internships  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- 💻 Languages: Python, C++
+- 📊 Libraries: Pandas, NumPy, Matplotlib
+- 🤖 ML: Scikit-learn
+- 🌐 Tools: Git, GitHub, Jupyter Notebook
+
+---
+
+## 📊 GitHub Stats
+![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=narendra72&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Projects
+- 🔹 Machine Learning Projects
+- 🔹 Web Scraping Projects
+- 🔹 Data Analysis Projects
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/narendra72
+
+---
+
+⭐ From [Narendra](https://github.com/narendra72)
