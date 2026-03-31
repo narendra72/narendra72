@@ -1,6 +1,10 @@
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I%27m+Narendra+Choudhary;Welcome+to+my+GitHub+Profile&font=Fira%20Code&center=true&width=600&height=50&color=BABABA&duration=3000&pause=1000">
+  <h3 align="center">⌨️ Welcome to My Profile</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I%27m+Narendra+Choudhary;Welcome+to+my+GitHub+Profile;Aspiring+AI/ML+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 ---
@@ -41,20 +45,8 @@
 
 ---
 
-## 🔥 Top Projects
-- 📌 Machine Learning Projects  
-- 📌 Web Scraping Projects  
-- 📌 Data Analysis Projects  
-
----
-
 ## 📫 Connect With Me
 - 🔗 GitHub: https://github.com/narendra72  
-
----
-
-## 💡 Fun Fact
-⚡ I turn coffee ☕ into code 💻  
 
 ---
 
