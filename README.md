@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=4000&pause=1000&center=true&vCenter=true&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=Hey+There!;I%27m+Narendra+Choudhary.;Welcome+to+my+Github+Profile.;)](https://git.io/typing-svg)
 
@@ -10,11 +10,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 **BTech CSE (AI)** Student at **SKIT Jaipur**
-- 🤖 Passionate about **AI, Machine Learning & Data Science**
-- 📊 Love working on **real-world datasets** and building intelligent solutions
-- 📍 Based in **Jaipur, Rajasthan**
-- 🌐 Check out my [linkedin profile](www.linkedin.com/in/narendra-choudhary-a46892309)
+- 🎓 **BTech CSE (AI)** Student at **SKIT Jaipur**.
+- 🤖 Passionate about **AI, Machine Learning & Data Science**.
+- 📊 Love working on **real-world datasets** and building intelligent solutions.
+- 📍 Based in **Jaipur, Rajasthan**.
+- 🌐 Check out my [LinkedIn profile](https://www.linkedin.com/in/narendra-choudhary-a46892309)
 
 <br clear="right"/>
 
@@ -22,10 +22,14 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+
+<br>
 
 ### Data Science & ML
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org)
@@ -35,11 +39,16 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
+<br>
+
 ### Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narendra72)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/narendra772)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+
+</div>
 
 ---
 
