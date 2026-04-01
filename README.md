@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/message.gif" width="30"/>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://camo.githubusercontent.com/cf6323089db1ffdd9343d97023523f26feec0a239b4e8cc142d488c20d644dea/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966" width="25"/> GitHub Analytics
 
 <div align="center">
 
