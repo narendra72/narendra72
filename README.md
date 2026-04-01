@@ -13,7 +13,6 @@
 - 🎓 BTech CSE (AI) Student at SKIT Jaipur  
 - 🤖 Passionate about AI, Machine Learning & Data Science  
 - 📊 Love working on real-world datasets  
-- 🌱 Currently learning: Deep Learning & Advanced ML  
 
 ---
 
