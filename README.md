@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-- 🎓 **BTech CSE (AI)** Student at **SKIT Jaipur**.
+- 🎓 **BTech CSE (AI)** Student at **[SKIT Jaipur](https://www.skit.ac.in/)**.
 - 🤖 Passionate about **AI, Machine Learning & Data Science**.
 - 📊 Love working on **real-world datasets** and building intelligent solutions.
 - 📍 Based in **Jaipur, Rajasthan**.
